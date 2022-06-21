@@ -1,0 +1,12 @@
+2022-06-10 11:36:44,008  INFO [main] Log4jPractice:17 - ****************************** Starting test cases execution  *****************************************
+2022-06-10 11:36:46,910  INFO [main] Log4jPractice:21 - launching chrome broswer
+2022-06-10 11:36:57,089  INFO [main] Log4jPractice:28 - entering application URL
+2022-06-10 11:36:57,090  WARN [main] Log4jPractice:29 - Hey this just a warning message
+2022-06-10 11:36:57,090 FATAL [main] Log4jPractice:30 - hey this is just fatal error message
+2022-06-10 11:36:57,091 DEBUG [main] Log4jPractice:31 - this is debug message
+2022-06-10 11:36:57,093  INFO [main] Log4jPractice:37 - ****************************** starting test case *****************************************
+2022-06-10 11:36:57,094  INFO [main] Log4jPractice:38 - ****************************** freeCrmTitleTest *****************************************
+2022-06-10 11:36:57,215  INFO [main] Log4jPractice:41 - login page title is--->Free CRM software for customer relationship management, sales, marketing campaigns and support.
+2022-06-10 11:36:57,224  INFO [main] Log4jPractice:44 - ****************************** ending test case *****************************************
+2022-06-10 11:36:57,227  INFO [main] Log4jPractice:45 - ****************************** freeCrmTitleTest *****************************************
+2022-06-10 11:36:57,832  INFO [main] Log4jPractice:55 - ****************************** Browser is closed *****************************************
